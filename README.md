@@ -50,7 +50,7 @@ To install, you can:
 
 Since version 2.0, the configuration must be generated. To generate the default configuration, you must rename the disabled ini file and run the configuration parser:
 ```
-cd rocket-nginx
+cd NGINX-WP-Rocket
 cp rocket-nginx.ini.disabled rocket-nginx.ini
 php rocket-parser.php
 ```
