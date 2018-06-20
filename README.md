@@ -1,5 +1,4 @@
-NGINX-WP-Rocket
-===============
+# - ![#00b2ee](https://placehold.it/15/00b2ee/000000?text=+) `NGINX-WP-Rocket`
 
 NGINX-WP-Rocket is a [Nginx](http://nginx.org) configuration for the [WordPress](http://wordpress.org) cache plugin [WP-Rocket](http://wp-rocket.me). It enables Nginx to serve directly previously cached files without calling WordPress or any PHP. It also adds headers to cache CSS, JS and medias in order to leverage browser's cache by reducing request to your web server.
 
