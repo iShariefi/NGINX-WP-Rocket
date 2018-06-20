@@ -8,7 +8,7 @@ NGINX-WP-Rocket is a [Nginx](http://nginx.org) configuration for the [WordPress]
   1. [Installation](#installation)
   1. [Configuration](#configuration)
   1. [Debug](#debug)
-  1. [FAQ](#css)
+  1. [FAQ](#faq)
   1. [License](#license)
 
 ## <a name='before'>Before You Start</a>
